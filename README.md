@@ -26,11 +26,15 @@ Run ```pip install flask-restful```
 
 
 #Running Application
-```export FLASK_APP=main.py```
-```python main.py```
+```
+export FLASK_APP=main.py
+python main.py
+```
 You should see the following:
-```(flask)sswalker:FlaskSimpleApi yamashita$ python main.py
+```
+(flask)sswalker:FlaskSimpleApi yamashita$ python main.py
  * Running on http://0.0.0.0:9191/ (Press CTRL+C to quit)
  * Restarting with stat
  * Debugger is active!
- * Debugger pin code: 971-410-973```
+ * Debugger pin code: 971-410-973
+ ```
