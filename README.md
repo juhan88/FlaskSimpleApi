@@ -32,7 +32,7 @@ python main.py
 ```
 You should see the following:
 ```
-(flask)sswalker:FlaskSimpleApi yamashita$ python main.py
+(NAME_OF_VIRTUAL_ENVIORNMENT)sswalker:FlaskSimpleApi yamashita$ python main.py
  * Running on http://0.0.0.0:9191/ (Press CTRL+C to quit)
  * Restarting with stat
  * Debugger is active!
